@@ -58,6 +58,7 @@
     justify-content: center;
     top: 0;
     left: 0;
+    color: #000;
 
     button {
       margin-left: 20px;
